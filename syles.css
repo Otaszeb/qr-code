@@ -17,7 +17,7 @@ body{
     overflow: auto;
 }
 
-#bold{
+h1{
     font-weight: bold;
     font-size: 18px;
 }
@@ -31,6 +31,15 @@ body{
     color: rgb(65, 65, 65);
     font-weight: 200;
     text-align:center;
+}
+
+.attribution{
+    margin-top: 30px;
+}
+
+.attribution a{
+    text-decoration: none;
+    color: rgb(51, 200, 250);
 }
 
 @media only screen and (max-width:375px) {
